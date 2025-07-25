@@ -1,0 +1,12 @@
+# ignore the Super-resolution data directory
+/Super-resolution/data/
+
+# ignore the trained model file
+/Super-resolution/superresolution_unet.h5
+
+# virtual environments
+/.venv/
+/venv311/
+
+# macOS metadata
+.DS_Store
