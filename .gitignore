@@ -3,6 +3,8 @@
 
 # ignore the trained model file
 /Super-resolution/superresolution_unet.h5
+/Super-resolution-new/data
+
 
 # virtual environments
 /.venv/

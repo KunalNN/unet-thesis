@@ -1,0 +1,13 @@
+# core
+tensorflow>=2.10
+numpy
+matplotlib
+scikit-image
+
+# utilities
+tqdm
+Pillow
+
+# perceptual metrics
+lpips-tensorflow
+pyiqa
